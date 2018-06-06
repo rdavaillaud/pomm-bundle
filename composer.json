@@ -1,5 +1,5 @@
 {
-  "name": "pomm-project/pomm-bundle",
+  "name": "hbs-research/pomm-bundle",
   "type": "symfony-bundle",
   "description": "The Symfony2 bundle for Pomm2",
   "keywords": ["orm", "postgresql", "database", "symfony", "pomm"],
